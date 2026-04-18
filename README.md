@@ -9,9 +9,9 @@
 | Dataset ID | `854094` |
 | Location | Elgin |
 | Category | Restaurants |
-| Full dataset size | 536 records |
-| Free sample size | 51 records (9.51%) |
-| Last export | 2026-04-07T11:42:00.199980+00:00 |
+| Full dataset size | 519 records |
+| Free sample size | 51 records (9.83%) |
+| Last export | 2026-04-14T11:36:30.588747+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-elgin-illinois-us-sample-854094/releases/download/sample-latest/beamstation_854094_restaurants-us-il_SAMPLE_DIST.csv) |
 
 ## What is in this sample
