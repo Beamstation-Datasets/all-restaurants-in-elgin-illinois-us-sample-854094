@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Comprehensive dining market data for Elgin, Illinois with a population of over 114k. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
   "config_name": "All Restaurants in Elgin, Illinois, US",
-  "export_job_id": "bff97059-e096-4ba9-934d-6a2c825be225",
+  "export_job_id": "93fb97ad-3808-446b-bb85-4537a4a28c9b",
   "github_org": "Beamstation-Datasets",
   "id_short": 854094,
   "location_name": "Elgin",
   "location_type": "city",
   "repo_name": "all-restaurants-in-elgin-illinois-us-sample-854094",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/854094/beamstation_854094_restaurants-us-il_SAMPLE_DIST.csv",
-  "sample_pct": 9.51,
+  "sample_pct": 9.83,
   "sample_records": 51,
   "sample_sha256": "f11f4fa28e905312b5b537138f6fcfcf27606775cb510c44ae7a8f698bc1a26a",
   "sample_size_bytes": 190097,
-  "total_records": 536,
-  "updated_at": "2026-04-07T11:42:00.199980+00:00"
+  "total_records": 519,
+  "updated_at": "2026-04-14T11:36:30.588747+00:00"
 }
