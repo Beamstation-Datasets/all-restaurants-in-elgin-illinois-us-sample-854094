@@ -1,6 +1,6 @@
 # All Restaurants in Elgin, Illinois, US
 
-> Free BeamStation sample export with 49 rows and masked direct-contact fields.
+> Free BeamStation sample export with 53 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `854094` |
 | Location | Elgin |
 | Category | Restaurants |
-| Full dataset size | 496 records |
-| Free sample size | 49 records (9.88%) |
-| Last export | 2026-04-28T12:54:37.501979+00:00 |
+| Full dataset size | 535 records |
+| Free sample size | 53 records (9.91%) |
+| Last export | 2026-05-05T22:25:23.662792+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-elgin-illinois-us-sample-854094/releases/download/sample-latest/beamstation_854094_restaurants-us-il_SAMPLE_DIST.csv) |
 
 ## What is in this sample
