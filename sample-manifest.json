@@ -1,12 +1,12 @@
 {
-  "export_job_id": "2c06becb-6286-47e1-b5eb-5c83d7c8cdfd",
+  "export_job_id": "8c446384-6ec3-47f8-932c-e98bebf49ce3",
   "id_short": 854094,
-  "published_at": "2026-04-28T19:33:29Z",
+  "published_at": "2026-05-06T07:09:33Z",
   "repo_name": "all-restaurants-in-elgin-illinois-us-sample-854094",
   "sample_asset_name": "beamstation_854094_restaurants-us-il_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/854094/beamstation_854094_restaurants-us-il_SAMPLE_DIST.csv",
-  "sample_records": 49,
-  "sample_sha256": "8a2f5acfdd838b89f7d666ed853ca46bb19f14912d558a244729d9cf586061e1",
-  "sample_size_bytes": 178485,
-  "total_records": 496
+  "sample_records": 53,
+  "sample_sha256": "6c9008d2f40e9cb7d5036dcf4b6d234979069f38ce56736ee1419b0bf5780bae",
+  "sample_size_bytes": 215857,
+  "total_records": 535
 }
